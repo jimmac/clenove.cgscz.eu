@@ -1,0 +1,11 @@
+---
+title: Klub Golfových Seniorů
+layout: default
+---
+<h1>Členové</h1>
+
+<ul>
+{% for person in site.data.members %}
+  <li><a href="{{ person.id | datapage_url: 'clen' }}">{{person.name}}</a></li>
+{% endfor %}
+</ul>

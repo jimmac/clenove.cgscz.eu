@@ -1,0 +1,7 @@
+page_gen-dirs: true # uncomment, if you prefer to generate named folders
+
+page_gen:
+  - data: 'members'
+    template: 'profile'
+    name: 'id'
+    dir: 'clen'
