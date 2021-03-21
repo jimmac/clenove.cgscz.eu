@@ -1,6 +1,75 @@
 - name: Jiří Steiner
-  id: 1001001
-  until: 2021/12/30
-- name: Jakub Steiner
-  id: 1001002
-  until: 2021/12/30
+  id: 102-00002
+  until: 2021/12/31
+- name: Jiří Novák
+  id: 086-00025
+  until: 2021/12/31
+- name: Karel Fibinger
+  id: 102-00152
+  until: 2021/12/31
+- name: Miroslav Klus
+  id: 086-00127
+  until: 2021/12/31
+- name: Miroslav Krejčí
+  id: 070-00437
+  until: 2021/12/31
+- name: Pavel Kovář
+  id: 053-00802
+  until: 2021/12/31
+- name: lenka Klikarová
+  id: 014-00200
+  until: 2021/12/31
+- name: Jiří Slíva
+  id: 086-00046
+  until: 2021/12/31
+- name: Jan Martiník
+  id: 102-00148
+  until: 2021/12/31
+- name: Kosmas Illiadis
+  id: 102-00001
+  until: 2021/12/31
+- name: Lenka Fibingerová
+  id: 102-00153
+  until: 2021/12/31
+- name: František Foldin
+  id: 052-00117
+  until: 2021/12/31
+- name: Marcela Foldinová
+  id: 098-00214
+  until: 2021/12/31
+- name: Milan Kuršel
+  id: 014-00353
+  until: 2021/12/31
+- name: Hana Kuršelová
+  id: 014-00352
+  until: 2021/12/31
+- name: Pedrin Květoslav Veselý
+  id: 177-00131
+  until: 2021/12/31
+- name: Petr Felkner
+  id: 086-00038
+  until: 2021/12/31
+- name: Jaroslav Vaňouček
+  id: 053-00989
+  until: 2021/12/31
+- name: Josef Česák
+  id: 177-00077
+  until: 2021/12/31
+- name: Vít Buchberger
+  id: 098-02600
+  until: 2021/12/31
+- name: Ivan Pergler
+  id: 102-00200
+  until: 2021/12/31
+- name: Jana Nováková
+  id: 086-00007
+  until: 2021/12/31
+- name: Ivan Mifka
+  id: 090-00050
+  until: 2021/12/31
+- name: František Salač
+  id: 072-00171
+  until: 2021/12/31
+- name: Ivo Sušický
+  id: 102-00034
+  until: 2021/12/31
