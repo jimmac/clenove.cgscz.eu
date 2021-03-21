@@ -96,33 +96,45 @@
 }
 
 body {
-  display: flex;
-  font-family: "Roboto Condensed";
-	align-items: center;
-	justify-content: center;
+	font-family: 'PT Serif';
+  color: white;
 	width: 100vw;
 	height: 100vh;
 	padding: 0; margin: 0;
-	font-size: 16px;
+	font-size: 18pt;
 	background: linear-gradient(0deg, var(--CGSgreen) 0%, var(--green4) 100%);
 	overflow: hidden;
 }
 
+a {
+	color: var(--green1);
+}
+
+ body section {
+   display: flex;
+ 	 align-items: center;
+ 	 justify-content: center;
+	 width: 100vw;
+	 height: 90vh;
+	 color: black;
+ }
+
 .clenove li.card {
- display: none;
- width: 40rem;
- height: 25rem;
- border-radius: 2rem;
- box-shadow: 0 2px 2px rgba(0,0,0,0.2), 0 2px 10px rgba(0,0,0,0.3);
- background-image: url(logo.svg), url(bg.svg);
- background-repeat: no-repeat;
- background-size: 300px, cover;
- background-position: top left, center;
- padding: 3rem;
- font-size: 200%;
- justify-content: flex-end;
- align-items: stretch;
- gap: 1rem;
+ 	font-family: "Roboto Condensed";
+	display: none;
+	width: 40rem;
+	height: 25rem;
+	border-radius: 2rem;
+	box-shadow: 0 2px 2px rgba(0,0,0,0.2), 0 2px 10px rgba(0,0,0,0.3);
+	background-image: url(logo.svg), url(bg.svg);
+	background-repeat: no-repeat;
+	background-size: 300px, cover;
+	background-position: top left, center;
+	padding: 3rem;
+	font-size: 120%;
+	justify-content: flex-end;
+	align-items: stretch;
+gap: 1rem;
 }
   .clenove li.card>div {
 		display: flex;
@@ -137,11 +149,18 @@ body {
   }
 	@media (max-width: 600px) {
 		.clenove li.card:target {
-				transform: rotate(90deg);
-				height: 70vw;
+				transform: rotate(90deg) translateY(20px) translateX(-100px);
+				height: 100vw;
+				width: 80vh;
+				border-radius: 0;
+				margin-top: 2rem;
 		}
 	}
 
 	.clenove .card .name {
 		font-weight: bold;
 	}
+
+footer {
+	text-align: center;
+}
