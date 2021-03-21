@@ -1,9 +1,147 @@
-
-
-.clenove li {
- display: none;
+/* Fonts */
+@font-face {
+	font-family: "Roboto Condensed";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Roboto Condensed"), local("RobotoCondensed-Regular"), url(fonts/roboto-condensed.woff2) format("woff2");
+	font-display: block;
 }
 
-  .clenove li:target {
-    display: block;
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFbzr-tdg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFSzr-tdg.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFYzr-tdg.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFWzr8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* RESET & TYPOGRAPHY */
+:root {
+  --CGSgreen: rgb(55,146,37);
+  --blue1: rgb(153,193,241);
+  --blue2: rgb(98,160,234);
+  --blue3: rgb(53,132,228);
+  --blue4: rgb(28,113,216);
+  --blue5: rgb(26,95,180);
+  --green1: rgb(143,240,164);
+  --green2: rgb(87,227,137);
+  --green3: rgb(51,209,122);
+  --green4: rgb(46,194,126);
+  --green5: rgb(38,162,105);
+  --yellow1: rgb(249,240,107);
+  --yellow2: rgb(248,228,92);
+  --yellow3: rgb(246,211,45);
+  --yellow4: rgb(245,194,17);
+  --yellow5: rgb(229,165,10);
+  --orange1: rgb(255,190,111);
+  --orange2: rgb(255,163,72);
+  --orange3: rgb(255,120,0);
+  --orange4: rgb(230,97,0);
+  --orange5: rgb(198,70,0);
+  --red1: rgb(246,97,81);
+  --red2: rgb(237,51,59);
+  --red3: rgb(224,27,36);
+  --red4: rgb(192,28,40);
+  --red5: rgb(165,29,45);
+  --purple1: rgb(220,138,221);
+  --purple2: rgb(192,97,203);
+  --purple3: rgb(145,65,172);
+  --purple4: rgb(129,61,156);
+  --purple5: rgb(97,53,131);
+  --brown1: rgb(205,171,143);
+  --brown2: rgb(181,131,90);
+  --brown3: rgb(152,106,68);
+  --brown4: rgb(134,94,60);
+  --brown5: rgb(99,69,44);
+  --light1: rgb(255,255,255);
+  --light2: rgb(246,245,244);
+  --light3: rgb(222,221,218);
+  --light4: rgb(192,191,188);
+  --light5: rgb(154,153,150);
+  --dark1: rgb(119,118,123);
+  --dark2: rgb(94,92,100);
+  --dark3: rgb(61,56,70);
+  --dark4: rgb(36,31,49);
+  --dark5: rgb(0,0,0);
+  --text: #f6f5f4;
+}
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  font-family: "Roboto Condensed";
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	height: 100vh;
+	padding: 0; margin: 0;
+	font-size: 16px;
+	background: linear-gradient(0deg, var(--CGSgreen) 0%, var(--green4) 100%);
+	overflow: hidden;
+}
+
+.clenove li.card {
+ display: none;
+ width: 40rem;
+ height: 25rem;
+ border-radius: 2rem;
+ box-shadow: 0 2px 2px rgba(0,0,0,0.2), 0 2px 10px rgba(0,0,0,0.3);
+ background-image: url(logo.svg), url(bg.svg);
+ background-repeat: no-repeat;
+ background-size: 300px, cover;
+ background-position: top left, center;
+ padding: 3rem;
+ font-size: 200%;
+ justify-content: flex-end;
+ align-items: stretch;
+ gap: 1rem;
+}
+  .clenove li.card>div {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
+
+  .clenove li.card:target {
+    display: flex;
+		flex-direction: column;
+		transition: transform 300ms ease-out;
   }
+	@media (max-width: 600px) {
+		.clenove li.card:target {
+				transform: rotate(90deg);
+				height: 70vw;
+		}
+	}
+
+	.clenove .card .name {
+		font-weight: bold;
+	}
