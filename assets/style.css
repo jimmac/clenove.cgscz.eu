@@ -134,12 +134,13 @@ a {
 	font-size: 120%;
 	justify-content: flex-end;
 	align-items: stretch;
-gap: 1rem;
+  gap: 1rem;
 }
   .clenove li.card>div {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
+		gap: 1rem;
 	}
 
   .clenove li.card:target {
