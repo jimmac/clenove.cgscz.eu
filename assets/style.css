@@ -149,7 +149,7 @@ gap: 1rem;
   }
 	@media (max-width: 600px) {
 		.clenove li.card:target {
-				transform: rotate(90deg) translateY(20px) translateX(-100px);
+				transform: rotate(90deg) translateY(20px) translateX(-70px);
 				height: 100vw;
 				width: 80vh;
 				border-radius: 0;
