@@ -104,6 +104,7 @@ body {
 	font-size: 18pt;
 	background: linear-gradient(0deg, var(--CGSgreen) 0%, var(--green4) 100%);
 	overflow: hidden;
+	transition: background-color 300ms ease-out;
 }
 
 a {
@@ -149,12 +150,18 @@ a {
 		transition: transform 300ms ease-out;
   }
 	@media (max-width: 600px) {
+		body {
+			color: black;
+			background: white;
+		}
+		a { color: var(--green5); }
 		.clenove li.card:target {
 				transform: rotate(90deg) translateY(20px) translateX(-70px);
 				height: 100vw;
 				width: 80vh;
 				border-radius: 0;
 				margin-top: 2rem;
+				box-shadow: none;
 		}
 	}
 
