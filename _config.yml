@@ -1,7 +1,2 @@
-page_gen-dirs: true # uncomment, if you prefer to generate named folders
-
-page_gen:
-  - data: 'members'
-    template: 'profile'
-    name: 'id'
-    dir: 'clen'
+title: Členové klubu golfových seniorů
+email: jimmac@gmail.com

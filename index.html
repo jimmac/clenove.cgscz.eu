@@ -6,6 +6,6 @@ layout: default
 
 <ul>
 {% for person in site.data.members %}
-  <li><a href="{{ person.id | datapage_url: 'clen' }}">{{person.name}}</a></li>
+  <li>{{ person.id }}, {{person.name}}</li>
 {% endfor %}
 </ul>
