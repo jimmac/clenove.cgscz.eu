@@ -2,10 +2,12 @@
 title: Klub Golfových Seniorů
 layout: default
 ---
-<h1>Členové</h1>
-
-<ul>
+<ul class="clenove">
 {% for person in site.data.members %}
-  <li>{{ person.id }}, {{person.name}}</li>
+  <li id="{{ person.id }}">
+      <div>{{ person.id }}</div>
+      <div>{{ person.name }}</div>
+      <div>{{ person.until | date: "%d.%m.%Y" }}</div>
+  </li>
 {% endfor %}
 </ul>

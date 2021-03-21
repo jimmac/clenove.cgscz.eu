@@ -1,0 +1,9 @@
+
+
+.clenove li {
+ display: none;
+}
+
+  .clenove li:target {
+    display: block;
+  }
