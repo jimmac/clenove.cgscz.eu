@@ -98,20 +98,23 @@
 body {
 	font-family: 'PT Serif';
   color: white;
+	font-size: 18pt;
+	background: linear-gradient(0deg, var(--CGSgreen) 0%, var(--green4) 100%);
+	transition: background-color 300ms ease-out;
+}
+
+body.fullscreen {
 	width: 100vw;
 	height: 100vh;
 	padding: 0; margin: 0;
-	font-size: 18pt;
-	background: linear-gradient(0deg, var(--CGSgreen) 0%, var(--green4) 100%);
 	overflow: hidden;
-	transition: background-color 300ms ease-out;
 }
 
 a {
 	color: var(--green1);
 }
 
- body section {
+ body.fullscreen section {
    display: flex;
  	 align-items: center;
  	 justify-content: center;
@@ -120,17 +123,27 @@ a {
 	 color: black;
  }
 
-.clenove li.card {
+.seznamclenu {
+	display: grid;
+	gap: 1rem;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	width: 100vw;
+}
+	.seznamclenu li {
+		display: block;
+	}
+
+.clen li.card {
 	display: none;
 }
-  .clenove li.card>div {
+  .clen li.card>div {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
 		gap: 1rem;
 	}
 
-  .clenove li.card:target {
+  .clen li.card:target {
     display: flex;
 		font-family: "Roboto Condensed";
 		width: 40rem;
@@ -150,12 +163,12 @@ a {
 		transition: transform 300ms ease-out;
   }
 	@media (max-width: 600px) {
-		body {
+		body.fullscreen {
 			color: black;
 			background: white;
 		}
-		a { color: var(--green5); }
-		.clenove li.card:target {
+		.fullscreen a { color: var(--green5); }
+		.clen li.card:target {
 				transform: rotate(90deg) translateY(20px) translateX(-70px);
 				height: 100vw;
 				width: 80vh;
@@ -165,10 +178,12 @@ a {
 		}
 	}
 
-	.clenove .card .name {
+	.clen .card .name {
 		font-weight: bold;
 	}
 
 footer {
+	font-size: 70%;
+	margin: 2rem auto 4rem;
 	text-align: center;
 }

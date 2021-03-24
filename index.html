@@ -2,14 +2,13 @@
 title: Klub Golfových Seniorů
 layout: default
 ---
-<ul class="clenove">
+
+<h1>Seznam členů CGS</h1>
+
+<ul class="seznamclenu">
 {% for person in site.data.members %}
-  <li class="card" id="{{ person.id }}">
-      <div class="name">{{ person.name }}</div>
-      <div>
-        <div class="id">{{ person.id }}</div>
-        <div class="until">platí do {{ person.until | date: "%d.%m.%Y" }}</div>
-      </div>
+  <li>
+      <a href="/c/#{{person.id}}">{{ person.name }}</a>
   </li>
 {% endfor %}
 </ul>
