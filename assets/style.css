@@ -112,9 +112,8 @@ body.fullscreen {
 
 }
 
-a {
-	color: var(--green1);
-}
+a {	color: #003300; transition: color 300ms ease-out; }
+a:hover { color: var(--green1)}
 
  body.fullscreen section {
    display: flex;
