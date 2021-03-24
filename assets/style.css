@@ -112,10 +112,7 @@ body.fullscreen {
 
 }
 
-a {	color: #003300; transition: color 300ms ease-out; }
-a:hover { color: var(--green1)}
-
- body.fullscreen section {
+body.fullscreen section {
    display: flex;
  	 align-items: center;
  	 justify-content: center;
@@ -124,11 +121,17 @@ a:hover { color: var(--green1)}
 	 color: black;
  }
 
+a {	color: #003300; transition: color 300ms ease-out; }
+a:hover { color: var(--green1)}
+
+h1 { text-align: center; }
+
 .seznamclenu {
 	display: grid;
 	gap: 1rem;
 	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	width: 100vw;
+	max-width: 100rem;
+	margin: 0 auto;
 }
 	.seznamclenu li {
 		display: block;
@@ -185,6 +188,11 @@ a:hover { color: var(--green1)}
 
 footer {
 	font-size: 70%;
-	margin: 2rem auto 4rem;
+	padding: 8rem;
 	text-align: center;
+	margin: 0 auto;
+}
+
+.fullscreen footer {
+	padding: 0;
 }
