@@ -6,10 +6,10 @@ layout: default
 <h1>Seznam členů CGS</h1>
 
 <ul class="seznamclenu">
-  {% assign members = site.data.members | sort: 'name' %}
+  {% assign members = site.data.members | sort: 'surname' %}
   {% for person in members  %}
   <li>
-      <a href="/c/#{{person.id}}">{{ person.name }}</a>
+      <a href="/c/#{{person.id}}">{{ person.name }} {{ person.surname }}</a>
   </li>
 {% endfor %}
 </ul>

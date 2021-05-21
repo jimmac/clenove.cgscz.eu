@@ -1,246 +1,328 @@
-- name: Jiří Steiner
+- surname: Steiner
+  name: Jiří
   id: '10200002'
   until: 2021/12/31
-- name: Jiří Novák
+- surname: Novák
+  name: Jiří
   id: '08600025'
   until: 2021/12/31
-- name: Karel Fibinger
+- surname: Fibinger
+  name: Karel
   id: '10200152'
   until: 2021/12/31
-- name: Miroslav Klus
+- surname: Klus
+  name: Miroslav
   id: '08600127'
   until: 2021/12/31
-- name: Miroslav Krejčí
+- surname: Krejčí
+  name: Miroslav
   id: '07000437'
   until: 2021/12/31
-- name: Pavel Kovář
+- surname: Kovář
+  name: Pavel
   id: '05300802'
   until: 2021/12/31
-- name: Lenka Klikarová
+- surname: Klikarová
+  name: Lenka
   id: '01400200'
   until: 2021/12/31
-- name: Jiří Slíva
+- surname: Slíva
+  name: Jiří
   id: '08600046'
   until: 2021/12/31
-- name: Jan Martiník
+- surname: Martiník
+  name: Jan
   id: '10200148'
   until: 2021/12/31
-- name: Kosmas Illiadis
+- surname: Illiadis
+  name: Kosmas
   id: '10200001'
   until: 2021/12/31
-- name: Lenka Fibingerová
+- surname: Fibingerová
+  name: Lenka
   id: '10200153'
   until: 2021/12/31
-- name: František Foldin
+- surname: Foldin
+  name: František
   id: '05200117'
   until: 2021/12/31
-- name: Marcela Foldinová
+- surname: Foldinová
+  name: Marcela
   id: '09800214'
   until: 2021/12/31
-- name: Milan Kuršel
+- surname: Kuršel
+  name: Milan
   id: '01400353'
   until: 2021/12/31
-- name: Hana Kuršelová
+- surname: Kuršelová
+  name: Hana
   id: '01400352'
   until: 2021/12/31
-- name: Pedrin Květoslav Veselý
+- surname: Veselý
+  name: Květoslav Pedrin
   id: '17700131'
   until: 2021/12/31
-- name: Petr Felkner
+- surname: Felkner
+  name: Petr
   id: '08600038'
   until: 2021/12/31
-- name: Jaroslav Vaňouček
+- surname: Vaňouček
+  name: Jaroslav
   id: '05300989'
   until: 2021/12/31
-- name: Josef Česák
+- surname: Česák
+  name: Josef
   id: '17700077'
   until: 2021/12/31
-- name: Vít Buchberger
+- surname: Buchberger
+  name: Vít
   id: '09802600'
   until: 2021/12/31
-- name: Ivan Pergler
+- surname: Pergler
+  name: Ivan
   id: '10200200'
   until: 2021/12/31
-- name: Jana Nováková
+- surname: Nováková
+  name: Jana
   id: '08600007'
   until: 2021/12/31
-- name: Ivan Mifka
+- surname: Mifka
+  name: Ivan
   id: '09000050'
   until: 2021/12/31
-- name: František Salač
+- surname: Salač
+  name: František
   id: '07200171'
   until: 2021/12/31
-- name: Ivo Sušický
+- surname: Sušický
+  name: Ivo
   id: '10200034'
   until: 2021/12/31
-- name: Jan Chocholáček
+- surname: Chocholáček
+  name: Jan
   id: '03501053'
   until: 2021/12/31
-- name: Petr Vaculčiak
+- surname: Vaculčiak
+  name: Petr
   id: '11500260'
   until: 2021/12/31
-- name: Oldřich Kříž
+- surname: Kříž
+  name: Oldřich
   id: '09403774'
   until: 2021/12/31
-- name: Jiří Balcar
+- surname: Balcar
+  name: Jiří
   id: '07200508'
   until: 2021/12/31
-- name: Stanislav Žídek
+- surname: Žídek
+  name: Stanislav
   id: '03501051'
   until: 2021/12/31
-- name: Jiří Rys
+- surname: Rys
+  name: Jiří
   id: '06300019'
   until: 2021/12/31
-- name: Věra Kernová
+- surname: Kernová
+  name: Věra
   id: '06301165'
   until: 2021/12/31
-- name: Jaromír Král
+- surname: Král
+  name: Jaromír
   id: '10200162'
   until: 2021/12/31
-- name: Pavel Slepička
+- surname: Slepička
+  name: Pavel
   id: '10200188'
   until: 2021/12/31
-- name: Michal Rakušan
+- surname: Rakušan
+  name: Michal
   id: '09803387'
   until: 2021/12/31
-- name: Renáta Rakušanová
+- surname: Rakušanová
+  name: Renáta
   id: '09804322'
   until: 2021/12/31
-- name: Hana Rehak
+- surname: Rehak
+  name: Hana
   id: '00901726'
   until: 2021/12/31
-- name: Slavomil Fibiger
+- surname: Fibiger
+  name: Slavomil
   id: '17700106'
   until: 2021/12/31
-- name: Jiří Mihalo
+- surname: Mihalo
+  name: Jiří
   id: '01400535'
   until: 2021/12/31
-- name: Jan Kinda
+- surname: Kinda
+  name: Jan
   id: '06800193'
   until: 2021/12/31
-- name: Alena Kindová
+- surname: Kindová
+  name: Alena
   id: '06800219'
   until: 2021/12/31
-- name: Michael Závěrka
+- surname: Závěrka
+  name: Michael
   id: '01400306'
   until: 2021/12/31
-- name: Renata Závěrková
+- surname: Závěrková
+  name: Renata
   id: '01400530'
   until: 2021/12/31
-- name: Radek Valenta
+- surname: Valenta
+  name: Radek
   id: '01400134'
   until: 2021/12/31
-- name: Jaroslav Strnad
+- surname: Strnad
+  name: Jaroslav
   id: '12201052'
   until: 2021/12/31
-- name: Zdeněk Sita
+- surname: Sita
+  name: Zdeněk
   id: '00901939'
   until: 2021/12/31
-- name: Alena Sitová
+- surname: Sitová
+  name: Alena
   id: '00901938'
   until: 2021/12/31
-- name: Stanislav Böhm
+- surname: Böhm
+  name: Stanislav
   id: '05300723'
   until: 2021/12/31
-- name: Vladimír Klepal
+- surname: Klepal
+  name: Vladimír
   id: '14300092'
   until: 2021/12/31
-- name: Jaroslav Novotný
+- surname: Novotný
+  name: Jaroslav
   id: '09000738'
   until: 2021/12/31
-- name: Pavel Šíma
+- surname: Šíma
+  name: Pavel
   id: '18001250'
   until: 2021/12/31
-- name: Petr Klein
+- surname: Klein
+  name: Petr
   id: '05301180'
   until: 2021/12/31
-- name: Nataša Kleinová
+- surname: Kleinová
+  name: Nataša
   id: '05301179'
   until: 2021/12/31
-- name: Jaroslav Pavlas
+- surname: Pavlas
+  name: Jaroslav
   id: '10200047'
   until: 2021/12/31
-- name: Jitka Pavlasová
+- surname: Pavlasová
+  name: Jitka
   id: '05300124'
   until: 2021/12/31
-- name: Vítězslav Tobolka
+- surname: Tobolka
+  name: Vítězslav
   id: '01400346'
   until: 2021/12/31
-- name: Josef Průša
+- surname: Průša
+  name: Josef
   id: '05300319'
   until: 2021/12/31
-- name: Jindřich Janata
+- surname: Janata
+  name: Jindřich
   id: '01400232'
   until: 2021/12/31
-- name: Josef Marek
+- surname: Marek
+  name: Josef
   id: '05300987'
   until: 2021/12/31
-- name: Dana Marková
+- surname: Marková
+  name: Dana
   id: '05300988'
   until: 2021/12/31
-- name: Jiří Krása
+- surname: Krása
+  name: Jiří
   id: '08600386'
   until: 2021/12/31
-- name: Jan Safín
+- surname: Safín
+  name: Jan
   id: '06000658'
   until: 2021/12/31
-- name: Kamil Šulc
+- surname: Šulc
+  name: Kamil
   id: '13600175'
   until: 2021/12/31
-- name: Jitka Tužová
+- surname: Tužová
+  name: Jitka
   id: '07200940'
   until: 2021/12/31
-- name: Vladimír Šorejs
+- surname: Šorejs
+  name: Vladimír
   id: '13600397'
   until: 2021/12/31
-- name: Pavel Vejlupek
+- surname: Vejlupek
+  name: Pavel
   id: '09000109'
   until: 2021/12/31
-- name: Jiří Franc
+- surname: Franc
+  name: Jiří
   id: '05300525'
   until: 2021/12/31
-- name: Dagmar Sedláčková
+- surname: Sedláčková
+  name: Dagmar
   id: '08600938'
   until: 2021/12/31
-- name: Ladislav Jač
+- surname: Jač
+  name: Ladislav
   id: '09700185'
   until: 2021/12/31
-- name: Arnošt Martinec
+- surname: Martinec
+  name: Arnošt
   id: '03500017'
   until: 2021/12/31
-- name: Vlastimil Sejkora
+- surname: Sejkora
+  name: Vlastimil
   id: '06600752'
   until: 2021/12/31
-- name: Věra Sejkorová
+- surname: Sejkorová
+  name: Věra
   id: '06600753'
   until: 2021/12/31
-- name: Lucie Farská 
+- surname: Farská
+  name: Lucie
   id: '05300695'
   until: 2021/12/31
-- name: Jiří Hykš
+- surname: Hykš
+  name: Jiří
   id: '00700208'
   until: 2021/12/31
-- name: Hana Hykšová
+- surname: Hykšová
+  name: Hana
   id: '00700207'
   until: 2021/12/31
-- name: Tomáš Hromek
+- surname: Hromek
+  name: Tomáš
   id: '07200959'
   until: 2021/12/31
-- name: Martin Šindelář
+- surname: Šindelář
+  name: Martin
   id: '01400538'
   until: 2021/12/31
-- name: Stanislav Šmidrkal
+- surname: Šmidrkal
+  name: Stanislav
   id: '01400419'
   until: 2021/12/31
-- name: Jan Spurný
+- surname: Spurný
+  name: Jan
   id: '13600559'
   until: 2021/12/31
-- name: Vladislav Milerski
+- surname: Milerski
+  name: Vladislav
   id: '14000162'
   until: 2021/12/31
-- name: Jaroslav Kůla
+- surname: Kůla
+  name: Jaroslav
   id: '10200095'
   until: 2021/12/31
-- name: Josef Valdhans
+- surname: Valdhans
+  name: Josef
   id: '06601055'
   until: 2021/12/31
