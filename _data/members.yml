@@ -354,3 +354,11 @@
   name: Martin
   id: '10000313'
   until: 2021/12/31
+- surname: Tregnerová
+  name: Anita
+  id: '06800231'
+  until: 2021/12/31
+- surname: Jireš
+  name: Petr
+  id: '06000646'
+  until: 2021/12/31
