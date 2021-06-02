@@ -362,3 +362,15 @@
   name: Petr
   id: '06000646'
   until: 2021/12/31
+- surname: Chrudimský
+  name: Stanislav
+  id: '17700105'
+  until: 2021/12/31
+- surname: Blaschke
+  name: Jan
+  id: '05300511'
+  until: 2021/12/31
+- surname: Blaschkeová
+  name: Jana
+  id: '05300512'
+  until: 2021/12/31
