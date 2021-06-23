@@ -405,4 +405,11 @@
 - surname: Sbrilli
   name: Luca
   id: '10200181'
+- surname: Jedlička
+  name: Petr
+  id: '03500553'
+  until: 2021/12/31
+- surname: Jedličková
+  name: Marcela
+  id: '03500552'
   until: 2021/12/31
