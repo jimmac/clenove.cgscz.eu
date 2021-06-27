@@ -413,3 +413,11 @@
   name: Marcela
   id: '03500552'
   until: 2021/12/31
+- surname: vacek
+  name: Jaroslav
+  id: '01400111'
+  until: 2021/12/31
+- surname: Žogliková
+  name: Hana
+  id: '01001852'
+  until: 2021/12/31
