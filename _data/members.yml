@@ -38,5 +38,17 @@
   name: Petr
   id: '11500260'
   until: 2022/12/31
+- surname: Kuršel
+  name: Milan
+  id: '01400353'
+  until: 2022/12/31
+- surname: Kuršelová
+  name: Hana
+  id: '01400352'
+  until: 2022/12/31
+- surname: Kleinová
+  name: Nataša
+  id: '05301179'
+  until: 2022/12/31
 
 
