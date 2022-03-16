@@ -94,3 +94,11 @@
   name: Ivan
   id: '09000050'
   until: 2022/12/31
+- surname: Pavlas
+  name: Jaroslav
+  id: '10200047'
+  until: 2022/12/31
+- surname: Pavlasová
+  name: Jitka
+  id: '05300124'
+  until: 2022/12/31
