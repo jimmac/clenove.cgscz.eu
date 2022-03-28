@@ -114,3 +114,27 @@
   name: Petr
   id: '05300245'
   until: 2022/12/31
+- surname: Hromek
+  name: Tomáš
+  id: '07200959'
+  until: 2022/12/31
+- surname: Hromková
+  name: Dana
+  id: '07500477'
+  until: 2022/12/31
+- surname: Hájek
+  name: Jiří
+  id: '01400899'
+  until: 2022/12/31
+- surname: Slepička
+  name: Pavel
+  id: '10200188'
+  until: 2022/12/31
+- surname: Závěrka
+  name: Michael
+  id: '01400306'
+  until: 2022/12/31
+- surname: Závěrková
+  name: Renata
+  id: '01400530'
+  until: 2022/12/31
