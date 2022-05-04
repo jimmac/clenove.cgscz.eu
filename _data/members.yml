@@ -242,3 +242,11 @@
   name: Martin
   id: '10000313'
   until: 2022/12/31
+- surname: Kucbelová
+  name: Marcela
+  id: '09805290'
+  until: 2022/12/31
+- surname: Valenta
+  name: Radek
+  id: '01400134'
+  until: 2022/12/31
