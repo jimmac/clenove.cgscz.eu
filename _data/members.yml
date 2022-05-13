@@ -266,3 +266,15 @@
   name: Hana
   id: '00700207'
   until: 2022/12/31
+- surname: Pergler
+  name: Ivan
+  id: '10200200'
+  until: 2022/12/31
+- surname: Pernička
+  name: Petr
+  id: '05300799'
+  until: 2022/12/31
+- surname: Sameš
+  name: Roman
+  id: '05300013'
+  until: 2022/12/31
