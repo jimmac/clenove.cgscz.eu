@@ -278,3 +278,15 @@
   name: Roman
   id: '05300013'
   until: 2022/12/31
+- surname: Vacek
+  name: Jaroslav
+  id: '01400111'
+  until: 2022/12/31
+- surname: Schovánek
+  name: Jan
+  id: '01002650'
+  until: 2022/12/31
+- surname: Schovánková
+  name: Eva
+  id: '01004098'
+  until: 2022/12/31
