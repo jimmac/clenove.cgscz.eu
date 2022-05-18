@@ -290,3 +290,11 @@
   name: Eva
   id: '01004098'
   until: 2022/12/31
+- surname: Jireš
+  name: Petr
+  id: '06000646'
+  until: 2022/12/31
+- surname: Kinda
+  name: Jan
+  id: '06800193'
+  until: 2022/12/31
