@@ -74,3 +74,11 @@
   name: Hana
   id: '00700207'
   until: 2023/12/31
+- surname: Nováková
+  name: Jana
+  id: '08600007'
+  until: 2023/12/31
+- surname: Nový
+  name: Ivan
+  id: '06601305'
+  until: 2023/12/31
