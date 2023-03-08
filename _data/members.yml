@@ -94,7 +94,7 @@
   name: Lenka
   id: '01400200'
   until: 2023/12/31
-  - surname: Janata
+- surname: Janata
   name: Jindřich
   id: '01400232'
   until: 2023/12/31
