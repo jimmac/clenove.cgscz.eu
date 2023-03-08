@@ -94,3 +94,15 @@
   name: Lenka
   id: '01400200'
   until: 2023/12/31
+  - surname: Janata
+  name: Jindřich
+  id: '01400232'
+  until: 2023/12/31
+- surname: Tobolka
+  name: Vítězslav
+  id: '01400346'
+  until: 2023/12/31
+- surname: Valenta
+  name: Radek
+  id: '01400134'
+  until: 2023/12/31
