@@ -122,3 +122,19 @@
   name: Pavel
   id: '05300802'
   until: 2023/12/31
+- surname: Hájek
+  name: Jiří
+  id: '01400899'
+  until: 2023/12/31
+- surname: Slíva
+  name: Jiří
+  id: '08600046'
+  until: 2023/12/31
+- surname: Marek
+  name: Josef
+  id: '05300987'
+  until: 2023/12/31
+- surname: Marková
+  name: Dana
+  id: '05300988'
+  until: 2023/12/31
