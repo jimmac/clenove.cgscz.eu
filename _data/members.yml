@@ -138,3 +138,11 @@
   name: Dana
   id: '05300988'
   until: 2023/12/31
+- surname: Balcar
+  name: Jiří
+  id: '07200508'
+  until: 2023/12/31
+- surname: Sušický
+  name: Ivo
+  id: '10200034'
+  until: 2023/12/31
