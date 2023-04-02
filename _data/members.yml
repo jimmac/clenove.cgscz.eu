@@ -146,3 +146,15 @@
   name: Ivo
   id: '10200034'
   until: 2023/12/31
+- surname: Klein
+  name: Petr
+  id: '05301180'
+  until: 2023/12/31
+- surname: Záruba
+  name: Petr
+  id: '07000027'
+  until: 2023/12/31
+- surname: Zárubová
+  name: Hana
+  id: '07000028'
+  until: 2023/12/31
