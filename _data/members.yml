@@ -158,3 +158,11 @@
   name: Hana
   id: '07000028'
   until: 2023/12/31
+- surname: Spurný
+  name: Jan
+  id: '13600559'
+  until: 2023/12/31
+- surname: Šorejs
+  name: Vladimír
+  id: '13600397'
+  until: 2023/12/31
