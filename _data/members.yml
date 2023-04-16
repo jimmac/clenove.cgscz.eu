@@ -2,7 +2,7 @@
   name: Karel
   id: '10200152'
   until: 2023/12/31
-- surname: FibingerovÃ¡
+- surname: Fibingerová
   name: Lenka
   id: '10200153'
   until: 2023/12/31
@@ -14,27 +14,27 @@
   name: Miroslav
   id: '08600127'
   until: 2023/12/31
-- surname: KrejÄÃ­
+- surname: Krejčí
   name: Miroslav
   id: '10000443'
   until: 2023/12/31
-- surname: MartinÃ­k
+- surname: Martiník
   name: Jan
   id: '10200148'
   until: 2023/12/31
-- surname: NovÃ¡k
-  name: JiÅÃ­
+- surname: Novák
+  name: Jiří
   id: '08600025'
   until: 2023/12/31
-- surname: SlepiÄka
+- surname: Slepička
   name: Pavel
   id: '10200188'
   until: 2023/12/31
 - surname: Steiner
-  name: JiÅÃ­
+  name: Jiří
   id: '10200002'
   until: 2023/12/31
-- surname: TregnerovÃ¡
+- surname: Tregnerová
   name: Anita
   id: '06800231'
   until: 2023/12/31
@@ -46,15 +46,15 @@
   name: Jaroslav
   id: '10200047'
   until: 2023/12/31
-- surname: PavlasovÃ¡
+- surname: Pavlasová
   name: Jitka
   id: '05300124'
   until: 2023/12/31
 - surname: Buchberger
-  name: VÃ­t
+  name: Vít
   id: '09802600'
   until: 2023/12/31
-- surname: ChrudimskÃœ
+- surname: Chrudimský
   name: Stanislav
   id: '17700105'
   until: 2023/12/31
@@ -62,23 +62,23 @@
   name: Petr
   id: '08600038'
   until: 2023/12/31
-- surname: VaÅouÄek
+- surname: Vaňouček
   name: Jaroslav
   id: '05300989'
   until: 2023/12/31
-- surname: HykÅ¡
-  name: JiÅÃ­
+- surname: Hykš
+  name: Jiří
   id: '00700208'
   until: 2023/12/31
-- surname: HykÅ¡ovÃ¡
+- surname: Hykšová
   name: Hana
   id: '00700207'
   until: 2023/12/31
-- surname: NovÃ¡kovÃ¡
+- surname: Nováková
   name: Jana
   id: '08600007'
   until: 2023/12/31
-- surname: NovÃœ
+- surname: Nový
   name: Ivan
   id: '06601305'
   until: 2023/12/31
@@ -87,19 +87,19 @@
   id: '09000050'
   until: 2023/12/31
 - surname: Choc
-  name: OndÅej
+  name: Ondřej
   id: '07200157'
   until: 2023/12/31
-- surname: KlikarovÃ¡
+- surname: Klikarová
   name: Lenka
   id: '01400200'
   until: 2023/12/31
 - surname: Janata
-  name: JindÅich
+  name: Jindřich
   id: '01400232'
   until: 2023/12/31
 - surname: Tobolka
-  name: VÃ­tÄzslav
+  name: Vítězslav
   id: '01400346'
   until: 2023/12/31
 - surname: Valenta
@@ -110,39 +110,39 @@
   name: Vlastimil
   id: '07000107'
   until: 2023/12/31
-- surname: KernovÃ¡
-  name: VÄra
+- surname: Kernová
+  name: Věra
   id: '06301165'
   until: 2023/12/31
 - surname: Rys
-  name: JiÅÃ­
+  name: Jiří
   id: '06300019'
   until: 2023/12/31
-- surname: KovÃ¡Å
+- surname: Kovář
   name: Pavel
   id: '05300802'
   until: 2023/12/31
-- surname: HÃ¡jek
-  name: JiÅÃ­
+- surname: Hájek
+  name: Jiří
   id: '01400899'
   until: 2023/12/31
-- surname: SlÃ­va
-  name: JiÅÃ­
+- surname: Slíva
+  name: Jiří
   id: '08600046'
   until: 2023/12/31
 - surname: Marek
   name: Josef
   id: '05300987'
   until: 2023/12/31
-- surname: MarkovÃ¡
+- surname: Marková
   name: Dana
   id: '05300988'
   until: 2023/12/31
 - surname: Balcar
-  name: JiÅÃ­
+  name: Jiří
   id: '07200508'
   until: 2023/12/31
-- surname: SuÅ¡ickÃœ
+- surname: Sušický
   name: Ivo
   id: '10200034'
   until: 2023/12/31
@@ -150,39 +150,27 @@
   name: Petr
   id: '05301180'
   until: 2023/12/31
-- surname: ZÃ¡ruba
+- surname: Záruba
   name: Petr
   id: '07000027'
   until: 2023/12/31
-- surname: ZÃ¡rubovÃ¡
+- surname: Zárubová
   name: Hana
   id: '07000028'
   until: 2023/12/31
-- surname: SpurnÃœ
+- surname: Spurný
   name: Jan
   id: '13600559'
   until: 2023/12/31
-- surname: Å orejs
-  name: VladimÃ­r
+- surname: Šorejs
+  name: Vladimír
   id: '13600397'
   until: 2023/12/31
-- surname: LÃ¡ska
-  name: JiÅÃ­
+- surname: Láska
+  name: Jiří
   id: '17700066'
   until: 2023/12/31
-- surname: KucbelovÃ
+- surname: Kucbelová
   name: Marcela
   id: '09805290'
-  until: 2023/12/31
-- surname: Veselý Pedrin
-  name: Květoslav
-  id: '17700131'
-  until: 2023/12/31
-- surname: Kleinová
-  name: Nataša
-  id: '05301179'
-  until: 2023/12/31
-- surname: Rakušanová
-  name: Renáta
-  id: '09804322'
   until: 2023/12/31
