@@ -206,3 +206,15 @@
   name: Ivan
   id: '05300420'
   until: 2023/12/31
+- surname: Hromek
+  name: Tomáš
+  id: '09700509'
+  until: 2023/12/31
+- surname: Tužová
+  name: Jitka
+  id: '07200940'
+  until: 2023/12/31
+- surname: Martinec
+  name: Arnošt
+  id: '03500017'
+  until: 2023/12/31
