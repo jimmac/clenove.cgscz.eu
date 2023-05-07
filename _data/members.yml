@@ -172,7 +172,7 @@
   until: 2023/12/31
 - surname: Kucbelová
   name: Marcela
-  id: '09805290'
+  id: '09404138'
   until: 2023/12/31
 - surname: Veselý Pedrin
   name: Květoslav
@@ -229,4 +229,12 @@
 - surname: Youngchan
   name: Oh
   id: '05300022'
+  until: 2023/12/31
+- surname: Raiter
+  name: Pavel
+  id: '11301999'
+  until: 2023/12/31
+- surname: Farská
+  name: Lucie
+  id: '05300695'
   until: 2023/12/31
