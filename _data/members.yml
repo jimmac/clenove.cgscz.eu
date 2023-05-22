@@ -226,10 +226,6 @@
   name: Jiří
   id: '05300525'
   until: 2023/12/31
-- surname: Youngchan
-  name: Oh
-  id: '05300022'
-  until: 2023/12/31
 - surname: Raiter
   name: Pavel
   id: '11301999'
@@ -249,4 +245,20 @@
 - surname: Král
   name: Jaromír
   id: '10200162'
+  until: 2023/12/31
+- surname: Salač
+  name: Miroslav
+  id: '09700459'
+  until: 2023/12/31
+- surname: Salaba
+  name: Petr
+  id: '05300245'
+  until: 2023/12/31
+- surname: Sameš
+  name: Roman
+  id: '05300013'
+  until: 2023/12/31
+- surname: Oh Young
+  name: Chan
+  id: '05300022'
   until: 2023/12/31
