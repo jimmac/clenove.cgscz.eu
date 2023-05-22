@@ -258,7 +258,7 @@
   name: Roman
   id: '05300013'
   until: 2023/12/31
-- surname: Oh Young
-  name: Chan
+- surname: Chan
+  name: Oh Young
   id: '05300022'
   until: 2023/12/31
