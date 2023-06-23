@@ -274,11 +274,15 @@
   name: Jan
   id: '09000082'
   until: 2023/12/31
-- surname: Teissig
+- surname: Teissing
   name: Michal
   id: '00800867'
   until: 2023/12/31
 - surname: Foldinová
   name: Marcela
   id: '16401494'
+  until: 2023/12/31
+- surname: Rakušan
+  name: Michal
+  id: '09803387'
   until: 2023/12/31
