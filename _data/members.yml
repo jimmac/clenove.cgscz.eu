@@ -58,6 +58,15 @@
   name: Jan
   id: '01002650'
   until: 2024/12/31
-
-
-
+- surname: Hájek
+  name: Jiří
+  id: '01400899'
+  until: 2024/12/31
+- surname: Nováková
+  name: Jana
+  id: '08600007'
+  until: 2024/12/31
+- surname: Nový
+  name: Ivan
+  id: '06601305'
+  until: 2024/12/31
