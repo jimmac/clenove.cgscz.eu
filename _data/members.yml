@@ -94,3 +94,15 @@
   name: Hana
   id: '00700207'
   until: 2024/12/31
+- surname: Krejčí
+  name: Miroslav
+  id: '10000443'
+  until: 2024/12/31
+- surname: Klein
+  name: Petr
+  id: '05301180'
+  until: 2024/12/31
+- surname: Kleinová
+  name: Nataša
+  id: '05301179'
+  until: 2024/12/31
