@@ -127,6 +127,34 @@
   id: '05300512'
   until: 2024/12/31
 - surname: Veselý
-  name: Pedrin Kvetoslav
+  name: Pedrin Květoslav
   id: '17700131'
+  until: 2024/12/31
+- surname: Pavlas
+  name: Jaroslav
+  id: '09811483'
+  until: 2024/12/31
+- surname: Pavlasová
+  name: Jitka
+  id: '05300124'
+  until: 2024/12/31
+- surname: Kovář
+  name: Pavel
+  id: '05300802'
+  until: 2024/12/31
+- surname: Závěrka
+  name: Michael
+  id: '01400306'
+  until: 2024/12/31
+- surname: Závěrková
+  name: Renata
+  id: '01400530'
+  until: 2024/12/31
+- surname: Rudolfová
+  name: Lenka
+  id: '07200938'
+  until: 2024/12/31
+- surname: Rudolf
+  name: Josef
+  id: '07200939'
   until: 2024/12/31
