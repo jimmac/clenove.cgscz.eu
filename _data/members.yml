@@ -182,3 +182,11 @@
   name: Ivan
   id: '09000050'
   until: 2024/12/31
+- surname: Janata
+  name: Jindřich
+  id: '01400232'
+  until: 2024/12/31
+- surname: Šulc
+  name: Kamil
+  id: '13600175'
+  until: 2024/12/31
