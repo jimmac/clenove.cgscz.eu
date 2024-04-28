@@ -226,3 +226,11 @@
   name: Alena
   id: '00901938'
   until: 2024/12/31
+- surname: Valenta
+  name: Radek
+  id: '01400134'
+  until: 2024/12/31
+- surname: Hromek
+  name: Tomáš
+  id: '09700509'
+  until: 2024/12/31
