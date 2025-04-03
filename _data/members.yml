@@ -94,3 +94,19 @@
   name: Radek
   id: '01400134'
   until: 2025/12/31
+- surname: Pavlas
+  name: Jaroslav
+  id: '09811483'
+  until: 2025/12/31
+- surname: Pavlasová
+  name: Jitka
+  id: '05300124'
+  until: 2025/12/31
+- surname: Hykš
+  name: Jiří
+  id: '00700208'
+  until: 2025/12/31
+- surname: Hykšová
+  name: Hana
+  id: '00700207'
+  until: 2025/12/31
