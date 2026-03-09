@@ -38,3 +38,32 @@
   name: Ivan
   id: '09000050'
   until: 2026/12/31
+- surname: Fibiger
+  name: Slavomil
+  id: '00801687'
+  until: 2026/12/31
+- surname: Vacek
+  name: Jaroslav
+  id: '01400111'
+  until: 2026/12/31
+- surname: Pavlasová
+  name: Jitka
+  id: '05300124'
+  until: 2026/12/31
+- surname: Pavlas
+  name: Jaroslav
+  id: '09811483'
+  until: 2026/12/31
+- surname: Hájek
+  name: Jiří
+  id: '01400899'
+  until: 2026/12/31
+- surname: Hykšová
+  name: Hana
+  id: '07000207'
+  until: 2026/12/31
+- surname: Hykš
+  name: Jiří
+  id: '07000208'
+  until: 2026/12/31
+
