@@ -94,3 +94,15 @@
   name: Michael
   id: '01400306'
   until: 2026/12/31
+- surname: Kovář
+  name: Pavel
+  id: '05300802'
+  until: 2026/12/31
+- surname: Klein
+  name: Petr
+  id: '05301180'
+  until: 2026/12/31
+- surname: Kleinová
+  name: Nataša
+  id: '05301179'
+  until: 2026/12/31
